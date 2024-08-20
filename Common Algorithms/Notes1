@@ -1,0 +1,26 @@
+Soft Skill Questions
+
+    Tell us about something you were asked to do that you have never done before. How did you react, and what did you learn?
+    What are the three most important aspects of a job, in your opinion? Team Co
+    Can you give us an example of when you had to work with someone who was difficult? How did you handle the situation?
+    Have you ever been in a situation when everything did not go according to plan? How did you react, and what was the outcome?
+    How did you handle an urgent problem when your supervisor or manager was away?
+    Can you tell us about a time you were faced with a challenge that you had never experienced before?
+    How do you prioritize your tasks when you have multiple deadlines to meet?
+    What is the most significant problem you solved in the workplace?
+    Highlight a situation where you had to make a decision without managerial supervision. How did you approach this situation, and who else did you speak with?
+    When have you performed a task without preexisting experience?
+    Explain your largest failure at work. How did you learn from this experience?
+
+Technical Questions
+
+    Draw for me (on the whiteboard) the design of the last project you worked on, without revealing to me any sensitive details.
+    Implement a string reversing function.
+    Implement a sorting function.
+    Explain in as much detail as you like how a web browser gets a generated page.
+    Write a function to reverse a singly linked list.
+    Given a binary tree, find the depth of the binary tree.
+    Write me a function to generate, print, and/or store the first n prime numbers. Then explain how it works and how efficient it is.
+    Given a binary tree, find the depth of the binary tree.
+    Write a function taking a single numerical parameter named c and returning nothing. Your function must satisfy the following requirements: - if c is bigger or equal to 0, then print 'z' to standard output - if c is stricly smaller than 0 , then print 'z' to standard output - in any other case, print the letter 'z' to standard output
+    How do you declare a variable (in JavaScript)? What is the diffeence between var, let, and const?
